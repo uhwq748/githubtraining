@@ -1,0 +1,5 @@
+this ia a chat application
+Emoji
+Type option
+Colors
+Text-align
