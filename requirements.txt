@@ -3,3 +3,6 @@ Emoji
 Type option
 Colors
 Text-align
+
+Bright mode
+Audio Features
