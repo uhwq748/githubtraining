@@ -6,3 +6,5 @@ Text-align
 
 Bright mode
 Audio Features
+
+Video features
